@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Prefix" xml:space="preserve">
-    <value>&gt;&gt;</value>
+    <value>Insert Prefix Here!</value>
   </data>
   <data name="Token" xml:space="preserve">
-    <value>NzAxMzQ3OTI1OTEzMjM5NjEy.XpwLLQ.2JsLoL1F8FC0H6zJHPxuebqSWGQ</value>
+    <value>Insert Token Here!</value>
   </data>
 </root>
